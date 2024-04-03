@@ -20,7 +20,7 @@ function SelectionPage() {
         onClick={() => navigateTo("/spot-registration")}
         className="mx-4 bg-green-500 hover:bg-green-700 text-white font-bold py-20 px-20 rounded-lg text-2xl"
       >
-        Spot Reg
+        Spot Registration
       </button>
     </div>
   );
