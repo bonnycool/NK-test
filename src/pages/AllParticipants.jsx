@@ -67,7 +67,7 @@ function AllParticipantDetails() {
                       )}
                       <tr className="bg-transparent">
                         <td className="px-6 py-4 text-sm text-white">
-                          Name: {participant.username}
+                          Namee: {participant.username}
                         </td>
                         <td className="px-6 py-4 text-sm text-white">
                           Phone: {participant.phone}
